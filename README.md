@@ -1,0 +1,2 @@
+# SSA-names
+Because first names are a common identifier, the ability to draw conclusions about an individual based on first name is a valuable capability. The SSA database provides the opportunity to draw conclusions about the gender of individuals who are members of the living United States population. This project use Naïve-Bayes classification to classify gender with high levels of accuracy and decade of birth with low accuracy. 
